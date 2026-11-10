@@ -44,18 +44,30 @@ I value pragmatic architecture, maintainable code, open-source technologies, and
 
 **4× AWS Certified**
 
-<a href="https://aws.amazon.com/certification/">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"/>
-</a>
-<a href="https://aws.amazon.com/certification/">
-  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Developer Associate"/>
-</a>
-<a href="https://aws.amazon.com/certification/">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect Associate"/>
-</a>
-<a href="https://aws.amazon.com/certification/">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect Professional"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS"/>
+      <br/><strong>Cloud Practitioner</strong>
+      <br/><sub>Foundational</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS"/>
+      <br/><strong>Developer</strong>
+      <br/><sub>Associate</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS"/>
+      <br/><strong>Solutions Architect</strong>
+      <br/><sub>Associate</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS"/>
+      <br/><strong>Solutions Architect</strong>
+      <br/><sub>Professional</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
