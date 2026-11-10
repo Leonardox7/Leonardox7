@@ -103,8 +103,8 @@ I value pragmatic architecture, maintainable code, open-source technologies, and
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Leonardox7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardox7&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Leonardox7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leonardox7&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
 
 </div>
 
