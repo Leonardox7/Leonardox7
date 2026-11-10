@@ -30,11 +30,9 @@ Building reliable, scalable backend systems.
 
 I'm a **Senior Backend Engineer** focused on designing, building, and evolving backend services and distributed systems.
 
-My experience spans fintech, digital banking, and payment processing, where I've worked on backend applications, microservices, and systems that require reliability, scalability, and careful engineering.
+I have several years of experience building backend applications and distributed systems for financial services and payment platforms, with a focus on reliability, scalability, and thoughtful engineering.
 
 I primarily work with **Go and Java**, and have hands-on experience with **AWS, Kubernetes, infrastructure as code, event-driven architectures, and asynchronous processing**.
-
-My background includes several years of experience in **fintech, digital banking, and payment processing**, contributing to backend solutions and distributed systems in demanding environments.
 
 I value pragmatic architecture, maintainable code, open-source technologies, and solving real-world engineering problems.
 
