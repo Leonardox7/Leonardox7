@@ -34,7 +34,7 @@ My experience spans fintech, digital banking, and payment processing, where I've
 
 I primarily work with **Go and Java**, and have hands-on experience with **AWS, Kubernetes, infrastructure as code, event-driven architectures, and asynchronous processing**.
 
-Previously, I spent over four years at **Inter**, contributing to software solutions in the payments domain. I currently work at **Lerian**, building backend solutions and contributing to engineering practices.
+My background includes several years of experience in **fintech, digital banking, and payment processing**, contributing to backend solutions and distributed systems in demanding environments.
 
 I value pragmatic architecture, maintainable code, open-source technologies, and solving real-world engineering problems.
 
