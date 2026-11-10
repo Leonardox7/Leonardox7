@@ -47,22 +47,22 @@ I value pragmatic architecture, maintainable code, open-source technologies, and
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS"/>
+      <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
       <br/><strong>Cloud Practitioner</strong>
       <br/><sub>Foundational</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS"/>
+      <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
       <br/><strong>Developer</strong>
       <br/><sub>Associate</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS"/>
+      <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
       <br/><strong>Solutions Architect</strong>
       <br/><sub>Associate</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS"/>
+      <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
       <br/><strong>Solutions Architect</strong>
       <br/><sub>Professional</sub>
     </td>
